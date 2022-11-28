@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    padding:0;
+  }
+  span{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 130px;
+    padding-right: 130px;
+    background-color: black;
+    color: white;
+  }
+  
+  .li1{
+    display: inline;
+    padding: 10px 20px 10px 20px ;
+    border: 3px solid black;
+    border-radius: 9px;
+    border-color: gray;
+    background-color: rgba(241, 44, 44, 0.3);
+    font-family: roboto;
+    color: black;
+    
+  }
+  i{
+    padding-right: 10px;
+  }
