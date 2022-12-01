@@ -1,0 +1,37 @@
+body{
+    margin:0;
+    padding:0;
+   
+  }
+  span{
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 0px;
+    background-color: white;
+    color: black;
+  }
+  
+  li{
+    display:inline;
+    padding: 10px 20px 10px 20px ;
+    font-family: roboto;
+  }
+  
+  
+  .pesquisa{
+   padding:0px;
+  }
+  
+  input{
+    height: 82px;
+    width: 1000px;
+    padding:8px;
+    border:0;
+    margin: 0 0 15px;
+    box-sizing: border-box;
+    background:#C9C9C9;
+   
+  }
